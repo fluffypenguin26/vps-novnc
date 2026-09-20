@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exit-pins-discuss-personal.trycloudflare.com/vnc.html
+URL       : https://cups-beverage-same-intent.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-20 13:49:31
+Created   : 2026-09-20 17:49:44
 =======================================================

@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://burning-walks-mountain-have.trycloudflare.com/vnc.html
+URL       : https://cbs-mineral-heated-exceptions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 19:40:35
+Created   : 2026-10-02 23:27:11
 =======================================================

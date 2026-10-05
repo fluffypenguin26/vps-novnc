@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://trusts-otherwise-summit-considered.trycloudflare.com/vnc.html
+URL       : https://hospitality-discipline-alt-permitted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-05 02:50:53
+Created   : 2026-10-05 11:56:55
 =======================================================

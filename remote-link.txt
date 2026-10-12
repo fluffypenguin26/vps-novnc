@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cliff-chubby-mile-mixture.trycloudflare.com/vnc.html
+URL       : https://advocacy-advertise-program-operator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 23:20:03
+Created   : 2026-10-12 03:05:53
 =======================================================

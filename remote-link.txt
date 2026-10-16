@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://parent-upc-scanning-context.trycloudflare.com/vnc.html
+URL       : https://print-diagram-hey-investors.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 14:26:56
+Created   : 2026-10-16 18:32:11
 =======================================================

@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pearl-area-shed-nightlife.trycloudflare.com/vnc.html
+URL       : https://duties-arcade-build-heard.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 01:58:45
+Created   : 2026-10-17 08:56:29
 =======================================================

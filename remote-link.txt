@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://duties-arcade-build-heard.trycloudflare.com/vnc.html
+URL       : https://lambda-finished-sensors-lease.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 08:56:29
+Created   : 2026-10-17 13:23:28
 =======================================================

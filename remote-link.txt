@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://heritage-rather-previously-qualities.trycloudflare.com/vnc.html
+URL       : https://cdt-wrist-cuts-durable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 22:11:44
+Created   : 2026-10-26 02:09:36
 =======================================================

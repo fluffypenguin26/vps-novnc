@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chicken-waves-champagne-elderly.trycloudflare.com/vnc.html
+URL       : https://plains-outer-promotional-developing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-29 19:58:02
+Created   : 2026-10-29 23:45:33
 =======================================================

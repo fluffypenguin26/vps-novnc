@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://designer-par-single-qualities.trycloudflare.com/vnc.html
+URL       : https://article-saint-signed-eclipse.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:14:47
+Created   : 2026-11-02 03:10:04
 =======================================================

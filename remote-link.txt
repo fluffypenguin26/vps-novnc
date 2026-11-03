@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inkjet-meditation-recognized-distributed.trycloudflare.com/vnc.html
+URL       : https://latitude-zen-notes-hub.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 12:30:37
+Created   : 2026-11-03 20:44:08
 =======================================================

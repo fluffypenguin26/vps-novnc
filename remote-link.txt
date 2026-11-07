@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exterior-constraints-disable-finishing.trycloudflare.com/vnc.html
+URL       : https://environments-networking-neither-should.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 03:36:35
+Created   : 2026-11-07 11:26:00
 =======================================================

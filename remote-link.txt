@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://environments-networking-neither-should.trycloudflare.com/vnc.html
+URL       : https://advisors-communicate-expert-kate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 11:26:00
+Created   : 2026-11-07 19:11:40
 =======================================================
